@@ -1,0 +1,10 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "explorer.openEditors.visible": 0,
+    "window.zoomLevel": 0,
+    "html.format.indentInnerHtml": true,
+    "editor.minimap.enabled": false,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "elm.formatCommand": "/home/pem/.npm-global/bin/elm-format",
+    "elm.makeCommand": "/home/pem/.npm-global/bin/elm-make"
+}
