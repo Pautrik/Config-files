@@ -2,9 +2,19 @@
 {
     "explorer.openEditors.visible": 0,
     "window.zoomLevel": 0,
+    "html.format.extraLiners": "",
     "html.format.indentInnerHtml": true,
+    "javascript.format.insertSpaceAfterKeywordsInControlFlowStatements": false,
     "editor.minimap.enabled": false,
     "editor.multiCursorModifier": "ctrlCmd",
     "elm.formatCommand": "/home/pem/.npm-global/bin/elm-format",
-    "elm.makeCommand": "/home/pem/.npm-global/bin/elm-make"
+    "elm.makeCommand": "/home/pem/.npm-global/bin/elm-make",
+    "explorer.confirmDragAndDrop": false,
+    "scssFormatter.tabWidth": 4,
+    "explorer.confirmDelete": false,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "html.format.wrapLineLength": 0,
+    "git.terminalAuthentication": false,
+    "git.githubAuthentication": false
 }
