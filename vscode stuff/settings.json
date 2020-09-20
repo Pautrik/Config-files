@@ -16,5 +16,6 @@
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
     "html.format.wrapLineLength": 0,
     "git.terminalAuthentication": false,
-    "git.githubAuthentication": false
+    "git.githubAuthentication": false,
+    "editor.codeLens": false
 }
