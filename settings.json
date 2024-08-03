@@ -1,0 +1,41 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "explorer.openEditors.visible": 0,
+    "window.zoomLevel": 0.5,
+    "html.format.indentInnerHtml": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.minimap.enabled": false,
+    "elm.formatCommand": "/home/pem/.npm-global/bin/elm-format",
+    "elm.makeCommand": "/home/pem/.npm-global/bin/elm-make",
+    "explorer.confirmDragAndDrop": false,
+    "scssFormatter.tabWidth": 4,
+    "explorer.confirmDelete": false,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "html.format.wrapLineLength": 0,
+    "git.terminalAuthentication": false,
+    "github.gitAuthentication": false,
+    "editor.bracketPairColorization.enabled": false,
+    "terminal.integrated.shellIntegration.enabled": false,
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "terminal.integrated.scrollback": 10000,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "html.format.extraLiners": "",
+    "lit-html.tags": [
+        "html",
+    ],
+    "lit-plugin.htmlTemplateTags": [
+        "raw"
+    ],
+    "prettier.tabWidth": 4,
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "totalTypeScript.hideAllTips": false,
+    "workbench.preferredDarkColorTheme": "Default Dark+",
+    "workbench.colorTheme": "Default Dark+",
+    "redhat.telemetry.enabled": true,
+    "git.openRepositoryInParentFolders": "never",
+}
